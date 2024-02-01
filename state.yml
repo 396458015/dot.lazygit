@@ -1,16 +1,15 @@
 lastupdatecheck: 1700925132
 recentrepos:
 - C:\Users\ThinkPad\AppData\Roaming\lazygit
-- C:\Users\ThinkPad\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState
-- C:\Users\ThinkPad\AppData\Local\nvim
-- C:\Users\ThinkPad\AppData\Roaming\.goneovim
+- C:\Users\ThinkPad\.config\wezterm
 - C:\Users\ThinkPad\AppData\Roaming\alacritty
+- C:\Users\ThinkPad\Documents\PowerShell
+- C:\Users\ThinkPad\AppData\Roaming\.goneovim
+- C:\Users\ThinkPad\AppData\Local\nvim
 - C:\Users\ThinkPad\AppData\Roaming\yazi\config
 - C:\Users\ThinkPad\.config\winfetch
-- C:\Users\ThinkPad\Documents\PowerShell
-- C:\Users\ThinkPad\.config\wezterm
 startuppopupversion: 5
 customcommandshistory:
 - q
 hidecommandlog: false
-ignorewhitespaceindiffview: false
+ignorewhitespaceindiffview: true
