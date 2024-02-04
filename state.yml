@@ -3,11 +3,11 @@ recentrepos:
 - C:\Users\ThinkPad\AppData\Roaming\lazygit
 - C:\Users\ThinkPad\.config\wezterm
 - C:\Users\ThinkPad\AppData\Roaming\alacritty
+- C:\Users\ThinkPad\.config\winfetch
+- C:\Users\ThinkPad\AppData\Roaming\yazi\config
+- C:\Users\ThinkPad\AppData\Local\nvim
 - C:\Users\ThinkPad\Documents\PowerShell
 - C:\Users\ThinkPad\AppData\Roaming\.goneovim
-- C:\Users\ThinkPad\AppData\Local\nvim
-- C:\Users\ThinkPad\AppData\Roaming\yazi\config
-- C:\Users\ThinkPad\.config\winfetch
 startuppopupversion: 5
 customcommandshistory:
 - q
