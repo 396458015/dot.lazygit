@@ -194,7 +194,8 @@ keybinding:
         fetch: 'f'
         toggleTreeView: '`'
         openMergeTool: 'M'
-        openStatusFilter: '<c-b>'
+        # openStatusFilter: '<c-b>'  # (mxl comment)
+        openStatusFilter: '<c-n>'  # (mxl add)
     branches:
         createPullRequest: 'o'
         viewPullRequestOptions: 'O'
