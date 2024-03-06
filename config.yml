@@ -152,10 +152,12 @@ keybinding:
         openFile: 'o'
         scrollUpMain: '<pgup>' # main panel scroll up
         scrollDownMain: '<pgdown>' # main panel scroll down
-        scrollUpMain-alt1: 'K' # main panel scroll up
-        scrollDownMain-alt1: 'J' # main panel scroll down
-        scrollUpMain-alt2: '<c-u>' # main panel scroll up
-        scrollDownMain-alt2: '<c-d>' # main panel scroll down
+        # scrollUpMain-alt1: 'K' # main panel scroll up (mxl comment)
+        # scrollDownMain-alt1: 'J' # main panel scroll down (mxl comment)
+        # scrollUpMain-alt2: '<c-u>' # main panel scroll up (mxl comment)
+        # scrollDownMain-alt2: '<c-d>' # main panel scroll down (mxl comment)
+        scrollUpMain-alt1: '<c-b>' # main panel scroll up (mxl add)
+        scrollDownMain-alt1: '<c-f>' # main panel scroll down (mxl add)
         executeCustomCommand: ':'
         createRebaseOptionsMenu: 'm'
         pushFiles: 'P'
