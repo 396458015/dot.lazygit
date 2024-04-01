@@ -183,6 +183,7 @@ keybinding:
         checkForUpdate: 'u'
         recentRepos: '<enter>'
     files:
+        findBaseCommitForFixup: <disabled>
         commitChanges: 'c'
         commitChangesWithoutHook: 'w' # commit changes without pre-commit hook
         amendLastCommit: 'A'
