@@ -26,7 +26,7 @@ gui:
     theme:
         lightTheme: false
         defaultFgColor:
-            - "#4c4f69" # Latte
+            - "#abb2bf" # Frappe
         activeBorderColor:
             - "#A274D1"
             - bold
@@ -35,9 +35,9 @@ gui:
         optionsTextColor:
             - "#7DB1D5"
         selectedLineBgColor:
-            - "#ccd0da" # Latte
+            - "#34495E" # Frappe
         selectedRangeBgColor:
-            - "#ccd0da" # Latte
+            - "#34495E" # Frappe
         cherryPickedCommitBgColor:
             - "#303030"
         cherryPickedCommitFgColor:
