@@ -10,7 +10,7 @@ gui:
     timeFormat: '02 Jan 06' # https://pkg.go.dev/time#Time.Format
     shortTimeFormat: '3:04PM'
     authorColors:
-        "*": "#8195E7"
+        "*": "#7287fd"
     branchColors:
         "main": "#72AEB3"
         "master": "#72AEB3"
@@ -28,22 +28,22 @@ gui:
         defaultFgColor:
             - "#4c4f69" # Latte
         activeBorderColor:
-            - "#A274D1"
+            - "#1e66f5"
             - bold
         inactiveBorderColor:
-            - "#787878"
+            - "#6c6f85"
         optionsTextColor:
-            - "#7DB1D5"
+            - "#1e66f5"
         selectedLineBgColor:
             - "#ccd0da" # Latte
         selectedRangeBgColor:
-            - "#ccd0da" # Latte
+            - "#bcc0cc" # Latte
         cherryPickedCommitBgColor:
-            - "#303030"
+            - "#bcc0cc"
         cherryPickedCommitFgColor:
-            - "#5FAFD7"
+            - "#1e66f5"
         unstagedChangesColor:
-            - "#D73A49"
+            - "#d20f39"
     commitLength:
         show: true
     mouseEvents: true
