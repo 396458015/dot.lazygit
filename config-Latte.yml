@@ -33,7 +33,7 @@ gui:
         inactiveBorderColor:
             - "#6c6f85"
         optionsTextColor:
-            - "#1e66f5"
+            - "#7287fd"
         selectedLineBgColor:
             - "#ccd0da" # Latte
         selectedRangeBgColor:
