@@ -167,7 +167,7 @@ keybinding:
         # scrollDownMain-alt2: '<c-d>' # main panel scroll down (mxl comment)
         scrollUpMain-alt1: '<c-b>' # main panel scroll up (mxl add)
         scrollDownMain-alt1: '<c-f>' # main panel scroll down (mxl add)
-        executeCustomCommand: ':'
+        executeShellCommand: ':'
         createRebaseOptionsMenu: 'm'
         pushFiles: 'P'
         pullFiles: 'p'
